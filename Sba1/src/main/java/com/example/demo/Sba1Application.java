@@ -8,6 +8,9 @@ public class Sba1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Sba1Application.class, args);
+		System.out.println("-----Running the Application using Spring-dev Tools-----");
+		System.out.println("Test1");
+		
 	}
 
 }
